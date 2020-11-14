@@ -5,7 +5,7 @@ I2S Audio Stereo DAC
 
 ## Schematic
 
-![image goes here](img/sch.png)
+![image goes here](img/schematic.svg)
 
 ## Bill of Materials
 
